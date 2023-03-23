@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "884069103841",
+    "project_id": "chat-app-abb36",
+    "storage_bucket": "chat-app-abb36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884069103841:android:3c0989fda78d3dd9395fa0",
+        "android_client_info": {
+          "package_name": "com.example.messenger_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884069103841-0k0qlk5kpgbbbn5s919rpfgnpuh6n31s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAWQTCEEWnRNJRgQDCsfVMMojG9ugsC_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884069103841-0k0qlk5kpgbbbn5s919rpfgnpuh6n31s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
